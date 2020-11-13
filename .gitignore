@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/appsettings.json
+/Properties/launchSettings.json
