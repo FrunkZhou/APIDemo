@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\C#\\API\\APIDemo\\APIDemo\\APIDemo.csproj",
+      "projectUniqueName": "C:\\Dev\\C#\\API\\APIDemo\\APIDemo.csproj",
       "projectName": "APIDemo",
-      "projectPath": "C:\\Dev\\C#\\API\\APIDemo\\APIDemo\\APIDemo.csproj",
+      "projectPath": "C:\\Dev\\C#\\API\\APIDemo\\APIDemo.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\C#\\API\\APIDemo\\APIDemo\\obj\\",
+      "outputPath": "C:\\Dev\\C#\\API\\APIDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
