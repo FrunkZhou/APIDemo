@@ -5,3 +5,4 @@
 /.vs
 /appsettings.json
 /Properties/launchSettings.json
+/bin/Debug/netcoreapp3.1
