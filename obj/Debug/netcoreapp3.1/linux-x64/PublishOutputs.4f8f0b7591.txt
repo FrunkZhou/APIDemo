@@ -1,0 +1,15 @@
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\APIDemo
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\APIDemo.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\APIDemo.deps.json
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\APIDemo.runtimeconfig.json
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\APIDemo.pdb
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\AutoMapper.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\Microsoft.OpenApi.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\C#\API\APIDemo\bin\Debug\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
