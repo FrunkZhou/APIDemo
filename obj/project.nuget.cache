@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G+Ha6Ys84+jkGo0h3dCYOug4CGu2yjRMq6diM/vLqbW3/VtPcaEsq5gWofsxFkssygHvWgPDyYVfzZmcUnn8Zw==",
+  "dgSpecHash": "sKSUAR/i2ThnfoGeMzvq4Dp3jNwS2Z3Gp8n8SbU6kkNxJlt6BAVTklTi0V0P96XrXnFlE+u1JOhSiWvjpRAccQ==",
   "success": true,
   "projectFilePath": "C:\\Dev\\C#\\API\\APIDemo\\APIDemo.csproj",
   "expectedPackageFiles": [
@@ -19,8 +19,7 @@
     "C:\\Users\\Frank\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Frank\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "C:\\Users\\Frank\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "C:\\Users\\Frank\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\Frank\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.9\\microsoft.netcore.app.host.linux-x64.3.1.9.nupkg.sha512"
+    "C:\\Users\\Frank\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
