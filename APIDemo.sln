@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIDemo", "APIDemo.csproj", "{BC072425-AC83-41FF-AA99-18316D884AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDemoConsumer", "..\APIDemoConsumer\APIDemoConsumer.csproj", "{57A658D0-6085-49A6-8886-68AA8DD9AF71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDemoConsumer", "APIConsumerApp\APIDemoConsumer.csproj", "{57A658D0-6085-49A6-8886-68AA8DD9AF71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
